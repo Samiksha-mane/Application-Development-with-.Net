@@ -1,0 +1,15 @@
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\bin\Debug\net10.0\Exp_01.exe
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\bin\Debug\net10.0\Exp_01.deps.json
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\bin\Debug\net10.0\Exp_01.runtimeconfig.json
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\bin\Debug\net10.0\Exp_01.dll
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\bin\Debug\net10.0\Exp_01.pdb
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.AssemblyInfoInputs.cache
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.AssemblyInfo.cs
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.csproj.CoreCompileInputs.cache
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.sourcelink.json
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.dll
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\refint\Exp_01.dll
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.pdb
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\Exp_01.genruntimeconfig.cache
+D:\.Net\Application-Development-with-.Net\Lab\Exp_01\Exp_01\obj\Debug\net10.0\ref\Exp_01.dll

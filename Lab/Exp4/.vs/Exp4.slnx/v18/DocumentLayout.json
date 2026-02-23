@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Application-Development-with-.Net\\Lab\\Exp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CB819D-5060-4E12-BBCB-A7437D365805}|Exp4\\Exp4.csproj|d:\\.net\\application-development-with-.net\\lab\\exp4\\exp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CB819D-5060-4E12-BBCB-A7437D365805}|Exp4\\Exp4.csproj|solutionrelative:exp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Application-Development-with-.Net\\Lab\\Exp4\\Exp4\\Program.cs",
+              "RelativeDocumentMoniker": "Exp4\\Program.cs",
+              "ToolTip": "D:\\.Net\\Application-Development-with-.Net\\Lab\\Exp4\\Exp4\\Program.cs",
+              "RelativeToolTip": "Exp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T17:53:30.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
