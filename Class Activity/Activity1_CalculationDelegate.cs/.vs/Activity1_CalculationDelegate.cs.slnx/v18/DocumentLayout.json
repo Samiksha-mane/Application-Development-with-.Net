@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Application-Development-with-.Net\\Class Activity\\Activity1_CalculationDelegate.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5A9B4E-5492-4158-AE62-7178EA803D12}|Activity1_CalculationDelegate.cs\\Activity1_CalculationDelegate.cs.csproj|d:\\.net\\application-development-with-.net\\class activity\\activity1_calculationdelegate.cs\\activity1_calculationdelegate.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5A9B4E-5492-4158-AE62-7178EA803D12}|Activity1_CalculationDelegate.cs\\Activity1_CalculationDelegate.cs.csproj|solutionrelative:activity1_calculationdelegate.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Application-Development-with-.Net\\Class Activity\\Activity1_CalculationDelegate.cs\\Activity1_CalculationDelegate.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Activity1_CalculationDelegate.cs\\Program.cs",
+              "ToolTip": "D:\\.Net\\Application-Development-with-.Net\\Class Activity\\Activity1_CalculationDelegate.cs\\Activity1_CalculationDelegate.cs\\Program.cs",
+              "RelativeToolTip": "Activity1_CalculationDelegate.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T17:59:15.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

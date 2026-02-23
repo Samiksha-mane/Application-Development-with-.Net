@@ -1,0 +1,15 @@
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\bin\Debug\net10.0\Activity2_MulticastLambda.cs.exe
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\bin\Debug\net10.0\Activity2_MulticastLambda.cs.deps.json
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\bin\Debug\net10.0\Activity2_MulticastLambda.cs.runtimeconfig.json
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\bin\Debug\net10.0\Activity2_MulticastLambda.cs.dll
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\bin\Debug\net10.0\Activity2_MulticastLambda.cs.pdb
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.AssemblyInfoInputs.cache
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.AssemblyInfo.cs
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.csproj.CoreCompileInputs.cache
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.sourcelink.json
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.dll
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\refint\Activity2_MulticastLambda.cs.dll
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.pdb
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\Activity2_MulticastLambda.cs.genruntimeconfig.cache
+D:\.Net\Application-Development-with-.Net\Class Activity\Activity2_MulticastLambda.cs\Activity2_MulticastLambda.cs\obj\Debug\net10.0\ref\Activity2_MulticastLambda.cs.dll
