@@ -1,0 +1,33 @@
+web API = communication between fronted and backend
+example swiggy,instagram
+API = Application Programming Interface
+Rest API = uses HTTP methods ,works with JSON
+HTTP methods = get = fetch data,view student
+                post = create,add student
+                put = udate 
+                delete = delete
+
+Activity 
+1.what is web API and rest API deep study with examples
+2.learn HTTP methods with proper examples 
+swagger = test api without fronted
+//dotnet add package swashbuckle.AspNetCore
+
+//database = user table 
+student name = coloum
+//
+1.which HTTP method we are using 
+2.what is our end point
+3.what response is 
+4.inderstand web api with swagger 
+ controllers = handdelr
+ HTTP methods are actions 
+ swagger is tool
+
+#27th April
+1.file with index,certificate
+2.viva
+3.all codes on gits
+4.Project
+5.EXP 9 = acticity,fronted = angular(conntection names from database )
+6.all Activity 
